@@ -2,9 +2,10 @@
 Basic codes to understand how to use nltk <br>
 Madhur Bhatnagar - 16BCB0009
 
-
-    <p>Brown corpus</p>
-    <img src="https://github.com/maddybhtngr/natural_language_processing/blob/master/brown.png">
+Brown corpus
+<img src="https://github.com/maddybhtngr/natural_language_processing/blob/master/brown.png">
+    
+    
     
     <p>Inaugural corpus</p>
     <img src="https://github.com/maddybhtngr/natural_language_processing/blob/master/inaugural1.jpg">
