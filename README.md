@@ -2,12 +2,7 @@
 Basic codes to understand how to use nltk <br>
 Madhur Bhatnagar - 16BCB0009
 
-<html>
-  <head>
-  </head>
-  
-  <body>
-  
+
     <p>Brown corpus</p>
     <img src="https://github.com/maddybhtngr/natural_language_processing/blob/master/brown.png">
     
@@ -38,5 +33,4 @@ Madhur Bhatnagar - 16BCB0009
     <p>Anatidaephobia - A person suffering from this condition feels that somewhere in the world, a duck or a goose is watching him/her     (not attacking or touching, simply watching the individual). </p>
     <img src="https://github.com/maddybhtngr/natural_language_processing/blob/master/duck.png">
     <p>Disclaimer: I own no rights to image of the duck, it was purely added to add a little humour to this section</p>
-  </body>
-</html>
+
