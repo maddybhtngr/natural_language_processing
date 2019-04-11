@@ -2,31 +2,31 @@
 Basic codes to understand how to use nltk <br>
 Madhur Bhatnagar - 16BCB0009
 
-Brown corpus
+Brown corpus <br>
 <img src="https://github.com/maddybhtngr/natural_language_processing/blob/master/brown.png">
 
-Inaugural corpus
+Inaugural corpus <br>
 <img src="https://github.com/maddybhtngr/natural_language_processing/blob/master/inaugural1.JPG">
 <img src="https://github.com/maddybhtngr/natural_language_processing/blob/master/inaugural2.JPG">
     
-Gender accuracy
-<img src="https://github.com/maddybhtngr/natural_language_processing/blob/master/gen_acc.jpg">
+Gender accuracy <br>
+<img src="https://github.com/maddybhtngr/natural_language_processing/blob/master/gen_acc.JPG">
     
-Sentence and Word tokenization
-<img src="https://github.com/maddybhtngr/natural_language_processing/blob/master/sent_word_token.jpg">
+Sentence and Word tokenization <br>
+<img src="https://github.com/maddybhtngr/natural_language_processing/blob/master/sent_word_token.JPG">
     
-Stemming - Porter/Lancaster/RegExp/Snowball all mentioned
-<img src="https://github.com/maddybhtngr/natural_language_processing/blob/master/stem1.jpg">
-<img src="https://github.com/maddybhtngr/natural_language_processing/blob/master/stem2.jpg">
+Stemming - Porter/Lancaster/RegExp/Snowball all mentioned <br>
+<img src="https://github.com/maddybhtngr/natural_language_processing/blob/master/stem1.JPG">
+<img src="https://github.com/maddybhtngr/natural_language_processing/blob/master/stem2.JPG">
     
-Stop words
-<img src="https://github.com/maddybhtngr/natural_language_processing/blob/master/stopwords.jpg">
+Stop words <br>
+<img src="https://github.com/maddybhtngr/natural_language_processing/blob/master/stopwords.JPG">
     
-tweet tokenization
-<img src="https://github.com/maddybhtngr/natural_language_processing/blob/master/tweet_token.jpg">
+tweet tokenization <br>
+<img src="https://github.com/maddybhtngr/natural_language_processing/blob/master/tweet_token.JPG">
     
-wordnet
-<img src="https://github.com/maddybhtngr/natural_language_processing/blob/master/wordnet.jpg">
+wordnet <br>
+<img src="https://github.com/maddybhtngr/natural_language_processing/blob/master/wordnet.JPG">
     
   
     
