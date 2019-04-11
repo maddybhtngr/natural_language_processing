@@ -6,8 +6,8 @@ Brown corpus
 <img src="https://github.com/maddybhtngr/natural_language_processing/blob/master/brown.png">
 
 Inaugural corpus
-<img src="https://github.com/maddybhtngr/natural_language_processing/blob/master/inaugural1.jpg">
-<img src="https://github.com/maddybhtngr/natural_language_processing/blob/master/inaugural2.jpg">
+<img src="https://github.com/maddybhtngr/natural_language_processing/blob/master/inaugural1.JPG">
+<img src="https://github.com/maddybhtngr/natural_language_processing/blob/master/inaugural2.JPG">
     
 Gender accuracy
 <img src="https://github.com/maddybhtngr/natural_language_processing/blob/master/gen_acc.jpg">
