@@ -27,7 +27,17 @@ tweet tokenization <br>
     
 wordnet <br>
 <img src="https://github.com/maddybhtngr/natural_language_processing/blob/master/wordnet.JPG">
-    
+
+feature extraction <br>
+<img src="https://github.com/maddybhtngr/natural_language_processing/blob/master/feat_ex.png">
+
+feature similarity <br>
+<img src="https://github.com/maddybhtngr/natural_language_processing/blob/master/sim1.png">
+<img src="https://github.com/maddybhtngr/natural_language_processing/blob/master/sim2.png">
+<img src="https://github.com/maddybhtngr/natural_language_processing/blob/master/sim3.png">
+
+Word Lemmatization <br>
+<img src="https://github.com/maddybhtngr/natural_language_processing/blob/master/word_lemma.png">
   
     
     
