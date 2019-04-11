@@ -5,27 +5,27 @@ Madhur Bhatnagar - 16BCB0009
 Brown corpus
 <img src="https://github.com/maddybhtngr/natural_language_processing/blob/master/brown.png">
 
-<p>Inaugural corpus</p>
+Inaugural corpus
 <img src="https://github.com/maddybhtngr/natural_language_processing/blob/master/inaugural1.jpg">
 <img src="https://github.com/maddybhtngr/natural_language_processing/blob/master/inaugural2.jpg">
     
-<p>Gender accuracy</p>
+Gender accuracy
 <img src="https://github.com/maddybhtngr/natural_language_processing/blob/master/gen_acc.jpg">
     
-<p>Sentence and Word tokenization</p>
+Sentence and Word tokenization
 <img src="https://github.com/maddybhtngr/natural_language_processing/blob/master/sent_word_token.jpg">
     
-<p>Stemming - Porter/Lancaster/RegExp/Snowball all mentioned</p>
+Stemming - Porter/Lancaster/RegExp/Snowball all mentioned
 <img src="https://github.com/maddybhtngr/natural_language_processing/blob/master/stem1.jpg">
 <img src="https://github.com/maddybhtngr/natural_language_processing/blob/master/stem2.jpg">
     
-<p>Stop words</p>
+Stop words
 <img src="https://github.com/maddybhtngr/natural_language_processing/blob/master/stopwords.jpg">
     
-<p>tweet tokenization</p>
+tweet tokenization
 <img src="https://github.com/maddybhtngr/natural_language_processing/blob/master/tweet_token.jpg">
     
-<p>wordnet</p>
+wordnet
 <img src="https://github.com/maddybhtngr/natural_language_processing/blob/master/wordnet.jpg">
     
   
